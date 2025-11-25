@@ -10,3 +10,4 @@ def fact(n):
 x=int(input(print("Enter number to find factorial :", end= " ")))
 print(x)
 print("Factorial of", x, "is:", fact(x))
+print "thank you"
